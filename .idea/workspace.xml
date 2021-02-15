@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6751588c-514f-48fa-952c-c0699bf02307" name="Default Changelist" comment="добавлены изменения" />
+    <list default="true" id="6751588c-514f-48fa-952c-c0699bf02307" name="Default Changelist" comment="добавлены изменения2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613411589175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="добавлены изменения2">
+      <created>1613412226925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613412226925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавлены изменения" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены изменения" />
+    <MESSAGE value="добавлены изменения2" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены изменения2" />
   </component>
 </project>
