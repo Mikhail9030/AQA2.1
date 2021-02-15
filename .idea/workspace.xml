@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6751588c-514f-48fa-952c-c0699bf02307" name="Default Changelist" comment="добавлены изменения5">
+    <list default="true" id="6751588c-514f-48fa-952c-c0699bf02307" name="Default Changelist" comment="добавлены изменения7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" afterDir="false" />
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613412942462</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавлены изменения7">
+      <created>1613417062013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613417062013</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +134,7 @@
     <MESSAGE value="добавлены изменения3" />
     <MESSAGE value="добавлены изменения4" />
     <MESSAGE value="добавлены изменения5" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены изменения5" />
+    <MESSAGE value="добавлены изменения7" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены изменения7" />
   </component>
 </project>
