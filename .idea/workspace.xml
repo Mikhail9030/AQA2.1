@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6751588c-514f-48fa-952c-c0699bf02307" name="Default Changelist" comment="добавлены изменения8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6751588c-514f-48fa-952c-c0699bf02307" name="Default Changelist" comment="добавлены изменения в appveyor.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AQA2.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613418980595</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="добавлены изменения в appveyor.yml">
+      <created>1613675301963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613675301964</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +146,7 @@
     <MESSAGE value="добавлены изменения5" />
     <MESSAGE value="добавлены изменения7" />
     <MESSAGE value="добавлены изменения8" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены изменения8" />
+    <MESSAGE value="добавлены изменения в appveyor.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены изменения в appveyor.yml" />
   </component>
 </project>
